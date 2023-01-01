@@ -1,4 +1,4 @@
 - CloudWatch - gather information
 - CloudWatch - AWS account activity
 - CloudTrail - gather information
-- CloudTrail - - AWS account activity
+- CloudTrail - AWS account activity
